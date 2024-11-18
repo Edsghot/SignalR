@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Oc6sIYwXgLV4aEF1N5lqZLjsxgtaUlVZxEc75ynRDSU=",
+  "Source": "serverApiSignal",
+  "BasePath": "_content/serverApiSignal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
